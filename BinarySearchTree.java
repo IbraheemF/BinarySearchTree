@@ -1,4 +1,4 @@
-import org.w3c.dom.Node;
+//Written by Ibraheem Fannoun
 
 public class BinarySearchTree<T extends Comparable<T>>{
     private NodeGeneric<T> root;
